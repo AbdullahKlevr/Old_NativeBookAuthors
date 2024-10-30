@@ -1,0 +1,8 @@
+[02-May-2024 18:04:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Transport' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[07-May-2024 06:37:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Transport' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Transport/Fsockopen.php on line 25

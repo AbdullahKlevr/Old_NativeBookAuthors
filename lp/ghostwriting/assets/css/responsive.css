@@ -1,0 +1,318 @@
+@media only screen and (max-width: 900px) and (min-width: 320px) {
+    
+    header ul {
+    display: none;
+}div#bouncepopupform ul {
+    margin: 0;
+}
+
+ul.banner-features+a+a {
+    margin-top: 10px;
+    width: 211px;
+    font-size: 14px;
+    padding: 13px 10px !important;
+}
+div#bouncepopupform {
+    width: 98%;
+    margin: 0;
+    left: 4px;
+}
+
+div#CountDownTimerMini {
+    display: none;
+}
+
+div#bouncepopupform h2 {
+    text-align: left;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+div#bouncepopupform h6 {
+    text-align: left;
+    margin-bottom: 9px;
+    font-size: 16px;
+}
+header {
+    padding: 20px 0;
+    text-align: center;
+}
+
+section.banner {
+    padding: 110px 0 10px;
+}
+
+section.banner h1 {
+    font-size: 22px;
+}
+
+div#CountDownTimer {
+    width: 250px;
+}
+
+section.banner p {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+ul.banner-features {
+    margin-top: 14px;
+}
+
+ul.banner-features li {
+    display: block;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+ul.banner-features+a {
+    font-size: 14px;
+    margin-top: 13px;
+    width: 245px;
+    margin-bottom: 0;
+    padding: 11px 10px !important;
+}
+
+ul.banner-logos {
+    margin-top: 30px;
+}
+
+ul.banner-logos li {
+    margin: 0 8px 12px;
+}
+
+ul.banner-logos li img {
+    max-width: 91px;
+}
+
+section.banner-btm [class^="col-"] {
+    width: 33.33%;
+    float: left;
+    padding: 11px;
+    height: 124px;
+}
+
+section.banner-btm [class^="col-"] h6 {
+    font-size: 12px;
+    text-align: center;
+    line-height: normal;
+    text-transform: uppercase;
+    padding: 0;
+}
+
+section.banner-btm [class^="col-"] i {
+    display: block;
+    width: 40px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+section.hm-about {
+    padding: 20px 0;
+    text-align: center;
+    font-size: 13px;
+}
+
+section.hm-about h2 {
+    line-height: normal;
+    font-size: 18px;
+}
+
+section.hm-about a {
+    margin-top: 0;
+    margin-bottom: 23px;
+}
+
+section.hm-about ul li {
+    text-align: left;
+    margin-bottom: 9px;
+    font-size: 13px;
+}
+
+section.portfolio {
+    padding: 40px 0;
+}
+
+section.portfolio h2 {
+    font-size: 22px;
+    margin-bottom: 14px;
+}
+
+section.portfolio h2+p {
+    font-size: 13px;
+    padding: 0;
+    margin-bottom: 17px;
+}
+
+section.portfolio .btn {
+    font-size: 12px;
+    margin: 0 4px 8px;
+    letter-spacing: 0.5px;
+}
+
+section.portfolio .toolbar.mb2.mt2 {
+    margin-bottom: 13px;
+}
+
+div#portfolio .tile {
+    margin-bottom: 1px;
+    padding: 6px;
+}
+
+div#portfolio .tile img {
+    width: 100%;
+}
+
+section.features-col {
+    padding: 30px 0;
+}
+
+section.features-col h2 {
+    font-size: 17px;
+    line-height: normal;
+    margin-bottom: 40px;
+}
+
+section.cta-book img {
+    max-width: 200px;
+    margin-top: -76px;
+}
+
+section.cta-book {
+    text-align: center;
+    padding-top: 0;
+    margin-top: 93px;
+}
+
+section.cta-book h2 {
+    font-size: 25px;
+}
+
+section.cta-book .col-md-7 {
+    padding-bottom: 33px;
+    padding-top: 20px;
+}
+
+section.cta-book ul {
+    display: none;
+}
+
+section.testimonail {
+    text-align: center;
+    padding: 30px 0;
+}
+
+section.testimonail .col-md-6:nth-child(1) {
+    padding: 0 15px;
+}
+
+section.testimonail h2 {
+    font-size: 24px;
+    line-height: normal;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+section.testimonail .col-md-6:nth-child(1):before {
+    visibility: hidden;
+}
+
+section.testimonail h2+p {
+    font-size: 15px;
+    margin-bottom: 33px;
+}
+
+
+section.brands {
+    margin-top: 7px;
+}
+
+
+footer i.fa.fa-phone {
+    font-size: 22px;
+}
+    .popupform {
+    width: 94%;
+    padding: 18px;
+}
+
+.popupform h2 {
+    font-size: 21px;
+}
+
+.popupform h2+p {
+    line-height: 17px;
+    font-size: 12px;
+}
+
+.popupform ul li {
+    width: 98%;
+}
+div#bouncepopupform input[type="submit"] {
+    margin-top: 10px;
+    margin-bottom: 6px;
+    font-size: 12px;
+    padding: 10px 9px !important;
+}
+.popupform .fancybox-close-small {
+    right: -7px;
+    top: -21px;
+    padding-top: 0;
+}
+  
+section.brands ul li {
+    padding: 14px 5px;
+    width: 27%;
+}
+
+img {
+    max-width: 100%;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0 70px 0;
+    font-size: 12px;
+}
+
+footer ul {
+    float: none;
+    text-align: center;
+    margin-top: 18px;
+}
+
+footer ul li {
+    text-align: center;
+    font-size: 15px;
+    padding: 0;
+    margin-bottom: 7px;
+}
+
+footer ul li i {
+    display: inline-block;
+}  
+section.sponsers-list [class^="col-"] {
+    border: 0;
+    width: 48%;
+    display: inline-block;
+    padding-left: 72px !important;
+}
+ 
+section.sponsers-list [class^="col-"] i img {
+    max-width: 60%;
+}
+
+section.sponsers-list [class^="col-"] h4 {
+    font-size: 21px;
+}
+
+section.sponsers-list [class^="col-"] p {font-size: 13px;top: 60px;width: 82%;}
+
+section.sponsers-list [class^="col-"] i {
+    left: 30px;
+}
+}

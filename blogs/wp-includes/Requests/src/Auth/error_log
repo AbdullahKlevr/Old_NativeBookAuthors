@@ -1,0 +1,8 @@
+[04-Sep-2024 15:48:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Auth' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Auth/Basic.php on line 23
+[06-Sep-2024 17:24:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Auth' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Auth/Basic.php on line 23

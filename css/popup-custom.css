@@ -1,0 +1,583 @@
+.floating-form-wrap {
+    position: fixed;
+    width: 635px;
+    height: 344px;
+    right: 0;
+    margin-top: -109px;
+    z-index: 999;
+    background: #232323;
+    margin-right: -584px;
+    top: 50%;
+    display: none
+}
+
+.floating-form-wrap .thanks p {
+    color: #aaa
+}
+
+.field.pc {
+    position: relative
+}
+
+#flform input[type=text],
+#flform select {
+    width: 100%;
+    border: none;
+    font-size: 13px;
+    color: #585858;
+    background-image: url(https://savvybookmarketing-1a774.kxcdn.com/frontend/assets/images/sprites.html);
+    background-repeat: no-repeat
+}
+
+#flform input[type=text] {
+    padding: 7px 7px 7px 48px;
+    margin-bottom: 12px
+}
+
+#flform select {
+    padding: 6px;
+    margin-bottom: 10px;
+    padding-left: 45px
+}
+
+#flform .field.code {
+    width: 35%;
+    float: left;
+    padding-right: 0
+}
+
+#flform .field.phone {
+    width: 100%;
+    clear: both
+}
+
+#flform input[name=cn] {
+    background-position: -347px -524px
+}
+
+#flform input[name=em] {
+    background-position: -347px -568px
+}
+
+#flform select[name=pc] {
+    background-position: -347px -615px
+}
+
+#flform input[name=code],
+#flform input[name=pn] {
+    background-position: -347px -660px;
+    border-right: 1px solid #cacaca
+}
+
+#flform input[name=pn] {
+    padding: 7px 7px 7px 48px;
+    margin-bottom: 12px
+}
+
+#flform button,
+#flform input[type=submit] {
+    background: #c63502;
+    color: #fff;
+    font-weight: 800;
+    border: none;
+    text-transform: uppercase;
+    margin-top: 14px;
+    padding: 4px 16px;
+    margin-bottom: 5px;
+    margin-right: -10px;
+    box-shadow: 0 1px 1px 1px #be1000;
+    border-radius: 2px
+}
+
+.floating-form-wrap .form-handle {
+    background: url(https://savvybookmarketing-1a774.kxcdn.com/frontend/assets/images/sprites.html) no-repeat -335px -1560px #fff;
+    width: 51px;
+    height: 344px;
+    float: left;
+    cursor: pointer
+}
+
+.adpg .form-handle,
+.copywritingpg .form-handle,
+.creativepg .form-handle,
+.professionalpg .form-handle,
+.seopg .form-handle,
+.wcwpg .form-handle {
+    background-position: -284px -1560px
+}
+
+.floating-form {
+    width: 584px;
+    float: right
+}
+
+.floating-form .formdv {
+    padding: 8px 12px 25px 25px
+}
+
+.floating-form h4 {
+    font-size: 24px;
+    color: #e43727;
+    font-weight: 400;
+    margin: 0;
+    text-align: center;
+    padding-top: 4px;
+    text-align: left;
+    text-transform: uppercase
+}
+
+.floating-form h5 {
+    font-size: 18px;
+    color: #aaa;
+    font-weight: 400;
+    margin: 0;
+    text-align: center;
+    padding: 5px 0 17px;
+    text-align: left
+}
+
+.floating-form form {
+    text-align: center
+}
+
+.floating-form form p {
+    margin-top: 18px;
+    color: #6d6d6d;
+    font-size: 12px
+}
+
+.floating-form .field {
+    width: 50%;
+    float: left;
+    padding-right: 10px
+}
+
+.floating-form .fieldwrap {
+    width: 50%;
+    float: left
+}
+
+.floating-form .textarea {
+    width: 100%
+}
+
+.floating-form textarea {
+    width: 100%;
+    padding: 10px
+}
+
+.side-bars {
+    width: 228px;
+    height: 53px;
+    position: fixed;
+    right: -215px;
+    top: 50%;
+    z-index: 9999;
+    margin-top: -230px;
+    display: block;
+    right: -177px;
+    margin-right: 0;
+    display: none
+}
+
+.side-bars .s-bar {
+    display: block;
+    margin-bottom: 15px;
+    position: relative;
+    background: #232323;
+    right: 0;
+    cursor: pointer
+}
+
+.side-bars .s-bar img {
+    position: relative;
+    left: -6px;
+    float: left
+}
+
+.side-bars .s-bar a p {
+    color: #fff;
+    font-size: 14px;
+    padding: 6px 0 0 0;
+    margin: 0;
+    line-height: 19px;
+    width: 175px;
+    transition: .5s;
+    background: #232323;
+    display: inline-block;
+    float: left
+}
+
+.side-bars .s-bar a {
+    font-size: 18px;
+    padding: 0;
+    color: #fff;
+    float: left;
+    margin-top: -5px;
+    font-weight: 700;
+    width: 235px;
+    background: #232323
+}
+
+.side-bars .s-bar a.lchat {
+    padding: 0;
+    margin: 0;
+    line-height: 51px
+}
+
+.side-bars .s-bar a.lchat span {
+    font-weight: 400
+}
+
+.call-spr {
+    background: url(https://savvybookmarketing-1a774.kxcdn.com/frontend/assets/images/sprites.html) no-repeat -335px -1908px;
+    width: 51px;
+    height: 53px;
+    position: relative;
+    left: 0;
+    float: left;
+    margin-right: 8px
+}
+
+.chat-spr {
+    background: url(https://savvybookmarketing-1a774.kxcdn.com/frontend/assets/images/sprites.html) no-repeat -335px -1964px;
+    width: 51px;
+    height: 53px;
+    position: relative;
+    left: 0;
+    float: left;
+    margin-right: 8px
+}
+
+.cus-overlay {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQImWNguAkAANwA2ohRxm8AAAAASUVORK5CYII=) repeat;
+    top: 0;
+    left: 0;
+    z-index: 998;
+    display: none
+}
+
+.field label.error {
+    display: none !important
+}
+
+input.error,
+select.error,
+textarea.error {
+    background-color: #ffd7d7 !important;
+    color: #111 !important
+}
+
+.field.pc span {
+    position: absolute;
+    left: 10px;
+    top: 11px;
+    width: 19px;
+    height: 13px
+}
+
+a.close {
+    background: url(../images/close.html) top center no-repeat !important;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    display: block;
+    opacity: 1
+}
+
+.fancybox-lock .floating-form-wrap,
+.fancybox-lock .side-bars {
+    display: none !important
+}
+
+.popup-form {
+    width: 400px;
+    max-width: 400px;
+    height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -200px;
+    margin-top: -240px;
+    background: #2b3866;
+    display: none;
+    z-index: 9999;
+    box-shadow: #1d1d1d 0 0 6px 2px;
+    border: 1px solid #212121;
+    border-radius: 5px
+}
+
+.popup-form h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 800;
+    margin: 10px 0 0;
+    padding: 15px 0 0 0;
+    color: #fff;
+    display: inline-block;
+    letter-spacing: 0
+}
+
+.popup-form h3 {
+    font-size: 13px;
+    font-weight: 400;
+    margin: 2px 0 10px;
+    padding: 7px 20px;
+    text-align: center;
+    line-height: 16px;
+    letter-spacing: 1px;
+    color: #fff;
+    text-transform: uppercase
+}
+
+#popupform {
+    padding: 0 18px;
+    margin: 0 auto
+}
+
+#popupform input[type=text],
+#popupform select {
+    width: 100%;
+    background-color: #fff;
+    border: 0 solid #bd2517 !important;
+    font-size: 14px;
+    color: #000;
+    letter-spacing: 1px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 2px
+}
+
+#popupform select {
+    padding: 8px 6px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    width: 100%;
+    height: 40px
+}
+
+#popupform .field.code {
+    width: 35%;
+    float: left;
+    padding-right: 0
+}
+
+#popupform .field.phone {
+    width: 100%
+}
+
+#popupform input[name=cn] {
+    background-position: -347px -521px
+}
+
+#popupform input[name=em] {
+    background-position: -347px -565px
+}
+
+#popupform select[name=srv] {
+    background: url(https://savvybookmarketing-1a774.kxcdn.com/frontend/assets/images/sprites.html) no-repeat -347px -521px #fff
+}
+
+#popupform select[name=pc] {
+    background-position: -347px -612px
+}
+
+#popupform input[name=code],
+#popupform input[name=pn] {
+    background-position: -347px -657px
+}
+
+#popupform input[name=pn] {
+    padding: 10px 20px 10px 20px
+}
+
+#popupform button,
+#popupform input[type=button] {
+    background: #0b58a8 !important;
+    color: #fff !important;
+    border: none !important;
+    text-transform: uppercase !important;
+    margin-top: 4px !important;
+    padding: 10px 19px !important;
+    margin-bottom: 5px !important;
+    border-radius: 2px !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    font-family: Poppins, sans-serif;
+    width: auto !important
+}
+
+#popupform textarea {
+    width: 100%;
+    height: 109px;
+    background-color: #fff;
+    border: 0 solid #bd2517 !important;
+    border-radius: 2px;
+    padding: 14px 20px;
+    font-size: 14px;
+    color: #585858;
+    letter-spacing: 1px
+}
+
+#callback-form .time {
+    width: 50%;
+    padding: 0 5px;
+    float: left
+}
+
+#callback-form .time select {
+    background: #fff;
+    padding-left: 5px;
+    margin-bottom: 0
+}
+
+#callback-form hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #909090;
+    margin: 8px 0;
+    padding: 0
+}
+
+#callback-form p {
+    color: #909090;
+    margin-bottom: 4px
+}
+
+.callback-form {
+    width: 400px;
+    height: 465px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -200px;
+    margin-top: -233px;
+    background: #232323;
+    z-index: 9999;
+    display: none;
+    box-shadow: 0 0 6px 2px #000;
+    border: 1px solid #333
+}
+
+.callback-form h2 {
+    font-size: 22px;
+    color: #fff;
+    background: #e53727;
+    font-weight: 800;
+    margin: 0;
+    padding: 14px 33px
+}
+
+.callback-form h3 {
+    font-size: 20px;
+    font-weight: 300;
+    color: #909090;
+    text-align: left;
+    margin: 0;
+    padding: 10px 30px;
+    text-align: center;
+    line-height: 25px
+}
+
+#callback-form {
+    padding: 0 18px;
+    margin: 0 auto
+}
+
+.field.pc {
+    position: relative
+}
+
+#callback-form input,
+#callback-form select {
+    width: 100%;
+    border: none;
+    font-size: 13px;
+    color: #585858;
+    background-image: url(https://savvybookmarketing-1a774.kxcdn.com/frontend/assets/images/sprites.html);
+    background-repeat: no-repeat
+}
+
+#callback-form input {
+    padding: 7px 7px 7px 48px;
+    margin-bottom: 10px
+}
+
+#callback-form select {
+    padding: 6px;
+    margin-bottom: 10px;
+    padding-left: 45px;
+    width: 100%
+}
+
+#callback-form .field.code {
+    width: 35%;
+    float: left;
+    padding-right: 0
+}
+
+#callback-form .field.phone {
+    width: 100%
+}
+
+#callback-form input[name=cn] {
+    background-position: -347px -524px
+}
+
+#callback-form input[name=em] {
+    background-position: -347px -568px
+}
+
+#callback-form select[name=srv] {
+    background: url(https://savvybookmarketing-1a774.kxcdn.com/frontend/assets/images/sprites.html) no-repeat -347px -524px #fff
+}
+
+#callback-form select[name=pc] {
+    background-position: -347px -615px
+}
+
+#callback-form input[name=code],
+#callback-form input[name=pn] {
+    background-position: -347px -660px;
+    border-right: 1px solid #cacaca
+}
+
+#callback-form input[name=pn] {
+    padding: 7px 7px 7px 48px;
+    margin-bottom: 10px
+}
+
+#callback-form button,
+#callback-form input[type=submit] {
+    background: #eb3423;
+    color: #fff;
+    border: none;
+    text-transform: uppercase;
+    margin-top: 14px;
+    padding: 4px 18px;
+    margin-bottom: 5px;
+    box-shadow: 0 1px 1px 1px #be1000;
+    border-radius: 2px;
+    font-size: 15px;
+    font-weight: 400
+}
+
+#callback-form textarea {
+    width: 100%;
+    height: 66px
+}
+
+.visibleit {
+    overflow: visible !important
+}
+
+.side-bars .s-bar:hover {
+    right: 185px;
+    transition: .5s
+}

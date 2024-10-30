@@ -1,0 +1,8 @@
+[03-May-2024 06:13:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception\Transport' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Transport/Curl.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17
+[07-May-2024 15:06:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception\Transport' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Transport/Curl.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17

@@ -1,0 +1,4 @@
+[28-Mar-2024 11:19:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/theme-compat/sidebar.php on line 9

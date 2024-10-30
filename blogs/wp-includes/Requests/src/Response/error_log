@@ -1,0 +1,12 @@
+[20-Aug-2024 02:34:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Response/Headers.php on line 20
+[20-Aug-2024 04:24:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Response/Headers.php on line 20
+[22-Aug-2024 05:42:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Response/Headers.php on line 20

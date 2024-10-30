@@ -1,0 +1,106 @@
+[11-May-2024 22:47:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[11-May-2024 23:03:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[12-May-2024 07:29:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[13-May-2024 11:05:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[14-May-2024 02:18:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[14-May-2024 10:04:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[17-May-2024 22:06:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[21-May-2024 06:16:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[30-May-2024 06:50:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[01-Jun-2024 22:52:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[09-Jul-2024 23:03:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[12-Jul-2024 13:21:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[15-Jul-2024 19:26:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[15-Jul-2024 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[15-Jul-2024 19:58:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[15-Jul-2024 22:00:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[15-Jul-2024 22:12:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[15-Jul-2024 22:13:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[15-Jul-2024 22:14:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[17-Jul-2024 19:27:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[17-Jul-2024 23:00:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[18-Jul-2024 01:04:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[18-Jul-2024 01:46:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[19-Jul-2024 09:46:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[19-Jul-2024 11:45:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[21-Jul-2024 15:39:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10

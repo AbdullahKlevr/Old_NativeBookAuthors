@@ -1,0 +1,20 @@
+<?php
+// Check if the page is in the cache
+$cacheKey = 'unique_key_for_this_page';
+$cacheContent = apc_fetch($cacheKey);
+
+if ($cacheContent === false) {
+    // If not in cache, generate the content and store it in the cache
+    ob_start(); // Start output buffering
+
+    // Your page content and processing logic here
+
+    $cacheContent = ob_get_clean(); // Get the buffered content and clean the buffer
+
+    // Store content in cache for a specific duration (e.g., 1 hour)
+    apc_store($cacheKey, $cacheContent, 3600);
+}
+
+// Output the content
+echo $cacheContent;
+?>

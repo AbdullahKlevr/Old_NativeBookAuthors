@@ -1,0 +1,16 @@
+[25-May-2024 09:44:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[03-Jul-2024 14:17:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[05-Jul-2024 02:43:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[07-Jul-2024 03:18:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17

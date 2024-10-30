@@ -1,0 +1,44 @@
+[16-Jul-2024 03:24:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[16-Jul-2024 04:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[16-Jul-2024 07:05:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[16-Jul-2024 07:17:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[16-Jul-2024 07:25:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[18-Jul-2024 04:19:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[18-Jul-2024 07:40:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[19-Jul-2024 09:51:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[19-Jul-2024 09:52:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[20-Jul-2024 04:44:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[20-Jul-2024 23:49:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4

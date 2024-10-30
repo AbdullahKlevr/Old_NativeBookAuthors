@@ -1,0 +1,36 @@
+[02-May-2024 20:36:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Transport.php on line 17
+[05-May-2024 18:49:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Transport.php on line 17
+[04-Jul-2024 22:32:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[05-Jul-2024 05:25:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Http.php on line 18
+[06-Jul-2024 23:37:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[07-Jul-2024 11:21:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Http.php on line 18
+[29-Aug-2024 15:52:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Http.php on line 18
+[29-Aug-2024 22:16:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/Http.php on line 18
+[30-Aug-2024 04:15:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20

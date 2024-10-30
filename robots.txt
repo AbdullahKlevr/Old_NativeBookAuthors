@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /private/
+Disallow: /restricted/
+
+User-agent: *
+Crawl-delay: 30
+
+Sitemap:https://nativebookauthors.com/sitemap.xml

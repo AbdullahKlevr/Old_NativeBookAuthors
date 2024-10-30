@@ -1,0 +1,28 @@
+[13-Jul-2024 22:10:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[13-Jul-2024 22:11:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[14-Jul-2024 14:37:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[15-Jul-2024 22:10:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[15-Jul-2024 23:02:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[17-Jul-2024 21:48:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[18-Jul-2024 22:28:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17

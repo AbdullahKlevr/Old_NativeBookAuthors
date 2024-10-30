@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 1500
+Files info:
+Site URL = https://manhattanbookwriting.com/blogs
+Data file = /home/manhesqy/public_html/blogs/wp-content/themes/anymag/framework/demos/main/demo.xml
+Widget file = /home/manhesqy/public_html/blogs/wp-content/themes/anymag/framework/demos/main/widgets.wie
+Customizer file = /home/manhesqy/public_html/blogs/wp-content/themes/anymag/framework/demos/main/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Hidden Sidebar : 
+
+(Anymag) Category - lifestyle - Imported
+(Anymag) Category - travel - Imported
+(Anymag) Category - food - Imported
+(Anymag) Category - fashion - Imported
+(Anymag) Banner with Link - Advertisment - Imported
+Instagram Feed - Instagtam - Imported
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+Cover Sidebar Left : 
+
+(Anymag) Banner with Link - No Title - Imported
+(Anymag) Banner with Link - No Title - Imported
+(Anymag) Banner with Link - No Title - Imported
+
+Cover Sidebar Right : 
+
+(Anymag) Simple Cover Line - 10 Stereotypes That Aren’t ALWAYS TRUE - Imported
+(Anymag) Simple Cover Line - What is Hot this Season - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

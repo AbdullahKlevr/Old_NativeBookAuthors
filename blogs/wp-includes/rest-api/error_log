@@ -1,0 +1,4 @@
+[24-Oct-2024 12:25:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/rest-api/class-wp-rest-response.php on line 17

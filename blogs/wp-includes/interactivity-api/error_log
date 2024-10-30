@@ -1,0 +1,20 @@
+[16-May-2024 14:09:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[18-May-2024 23:54:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[22-May-2024 03:14:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[21-Jun-2024 02:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/interactivity-api/interactivity-api.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/interactivity-api/interactivity-api.php on line 73
+[26-Jun-2024 17:02:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18

@@ -1,0 +1,16 @@
+[28-Mar-2024 07:36:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2024 21:34:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/widgets/class-wp-widget-links.php on line 17
+[27-Apr-2024 18:15:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[28-Apr-2024 18:20:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/webvyoli/nativebookauthors.com/blogs/wp-includes/widgets/class-wp-widget-media-video.php on line 18
